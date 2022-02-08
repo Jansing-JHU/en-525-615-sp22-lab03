@@ -208,8 +208,7 @@ Looking around the same file, we can see all the addresses defined
 
 Therefore, it looks like `GPIOA=_BASE` is located at 0x40010800UL (i.e.
 0x40000000UL + 0x00010000UL + 0x00000800UL) If you compare that to
-[RM0008 Table 3](file://media/stm32f10xxx.pdf)
-[RM0008 Table 3](media/stm32f10xxx.pdf), we see that this value does line up with the data sheet.
+![RM0008 Table 3](file://media/stm32f10xxx.pdf), we see that this value does line up with the data sheet.
 
 ![](media/lab2-c12c5.png)
 
