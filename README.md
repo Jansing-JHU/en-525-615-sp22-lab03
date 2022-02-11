@@ -33,7 +33,7 @@ previously.
 
 ### Development Environment Updates
 
-In the Lab 2 Module on Blackboard, under the `QEMU ARM Update` section,  you will find an updated QEMU-ARM Package with the `NUCLEO-F103RB-TRAFFIC` model that is required for this lab.
+In the Lab 3 Module on Blackboard, under the `QEMU ARM Update` section,  you will find an updated QEMU-ARM Package with the `NUCLEO-F103RB-TRAFFIC` model that is required for this lab.
 
 * Download the version for the operating system you are using
 * Extract the archive to a convenient location
@@ -333,6 +333,7 @@ environment variables do not exist.
 
 -   In `Executable name` enter
     `${gnu_tools_for_stm32_compiler_path}\arm-none-eabi-gdb`
+    - For *nix based systems, enter `${gnu_tools_for_stm32_compiler_path}/arm-none-eabi-gdb`
 
 **NOTE**:  For my Mac, I had to specify and hardcode the path to the debugger.
 
