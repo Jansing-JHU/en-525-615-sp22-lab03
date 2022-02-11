@@ -49,7 +49,7 @@ When you run/debug the application, you will need to tell STM32CubeIDE to use th
 ** Locate `<extraction path>\bin\qemu-system-gnuarmeclipse`
 *** Note the extension will vary based on OS
 
-image::images\lab2-e70bd.png[]
+![](media/lab2-e70bd.png)
 
 ## Experiment 1:  Embedded Hello World
 
